@@ -9,7 +9,7 @@ The model architecture presented in the following code is not the same as the on
 It was highly pruned, reducing #params by a factor of 36, which led to an improvement of +1%,+8%,+3% for L,D and H modes respectively.The current architecture is the one used in the real-time PCS of TCV.
 
 <p align="center"> 
-    <img width="600" src="./myanimation.gif" alt="Conv-LSTM Real-Time Predictions in TCV">
+    <img width="800" src="./myanimation.gif" alt="Conv-LSTM Real-Time Predictions in TCV">
 </p>
 
 ## Installation
